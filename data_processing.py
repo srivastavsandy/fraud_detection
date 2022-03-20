@@ -6,3 +6,9 @@ def sum(a,b):
     return c
 
 print( "added new func of sum")
+def diff(a,b):
+    c = a - b 
+    return c
+
+print( "added new func of diff")
+
